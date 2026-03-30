@@ -14,11 +14,11 @@ A custom node for ComfyUI that provides a switch with override behavior. This no
 1. Navigate to your ComfyUI's `custom_nodes` directory
 2. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/comfyui-override-switch.git
+git clone https://github.com/SpaceWarpStudio/ComfyUI-OverrideSwitch.git
 ```
 3. Install the node:
 ```bash
-cd comfyui-override-switch
+cd ComfyUI-OverrideSwitch
 pip install -e .
 ```
 

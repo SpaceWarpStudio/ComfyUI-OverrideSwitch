@@ -8,7 +8,7 @@ setup(
         "torch",
         "comfyui"
     ],
-    author="iXtenda",
+    author="SpaceWarp Studio",
     description="A ComfyUI custom node for switching between inputs with override behavior",
     license="MIT",
     python_requires=">=3.7",

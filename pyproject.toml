@@ -1,7 +1,7 @@
 [project]
 name = "overrideswitch"
 description = "Custom ComfyUI node: switch between two inputs from an optional boolean condition, with graceful handling when inputs are missing."
-version = "1.0.0"
+version = "1.0.1"
 readme = "README.md"
 requires-python = ">=3.9"
 license = "MIT"

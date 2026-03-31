@@ -1,0 +1,24 @@
+[project]
+name = "overrideswitch"
+description = "Custom ComfyUI node: switch between two inputs from an optional boolean condition, with graceful handling when inputs are missing."
+version = "1.0.0"
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+classifiers = [
+    "Operating System :: OS Independent",
+]
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/SpaceWarpStudio/ComfyUI-OverrideSwitch"
+Documentation = "https://github.com/SpaceWarpStudio/ComfyUI-OverrideSwitch/wiki"
+"Bug Tracker" = "https://github.com/SpaceWarpStudio/ComfyUI-OverrideSwitch/issues"
+
+# Used by Comfy Registry https://registry.comfy.org
+[tool.comfy]
+PublisherId = "spacewarpstudio"
+DisplayName = "ComfyUI Override Switch"
+Icon = ""
+includes = []
+# "requires-comfyui" = ">=1.0.0"

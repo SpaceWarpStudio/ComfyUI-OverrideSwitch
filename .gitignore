@@ -36,3 +36,9 @@ Thumbs.db
 # Local notes / scratch (not for publishing)
 Development/
 development/
+
+# Local registry publish helper (expects parent ComfyUIProjects with .env and .venv)
+Publish-Registry.ps1
+
+# comfy-cli `comfy node publish` staging artifact (see comfy_cli.constants.NODE_ZIP_FILENAME)
+node.zip
